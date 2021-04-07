@@ -17,7 +17,7 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim_
   - MongoDB
   - React
   - DiscordJS
-- Php 7 & 8
+- PHP 7+
   - Laravel
   - MySQL
   - RestAPI
@@ -25,5 +25,4 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim_
 - SQL
 - Python
   - Pyrogram
-  - Django
   - Flask
