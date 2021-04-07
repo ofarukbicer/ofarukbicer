@@ -1,6 +1,6 @@
 ### Merhaba Ben Ömer Faruk 👋
 
-_16 Yaşında ve fullstack çalışabilen bir öğrenciyim_
+_16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla sevmem :)_
 
 **Şu anda [fribe.org](https://fribe.org) projesi üzerinde çalışıyorum**
 
