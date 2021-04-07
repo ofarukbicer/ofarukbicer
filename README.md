@@ -1,16 +1,26 @@
-### Hi there 👋
+### Merhaba Ben Ömer Faruk 👋
 
-<!--
-**ofarukbicer/ofarukbicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_16 Yaşında ve fullstack çalışabilen bir öğrenciyim_
 
-Here are some ideas to get you started:
+**Şu anda [fribe.org](https://fribe.org) projesi üzerinde çalışıyorum**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 En sevdiğim yazılım dilleri ve teknolojileri:
+- HTML 5
+- CSS 3
+  - Sass & Scss
+- JavaScript
+  - jQuery
+- NodeJS
+  - Express
+  - MongoDB
+  - React
+  - DiscordJS
+- Php 7 & 8
+  - MySQL
+  - RestAPI
+  - MongoDB
+- SQL
+- Python
+  - Pyrogram
+  - Django
+  - Flask
