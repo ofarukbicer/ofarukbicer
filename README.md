@@ -14,7 +14,6 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
   - jQuery
 - NodeJS
   - Express
-  - MongoDB
   - VueJS
   - React Native
   - Discord.JS
@@ -22,8 +21,10 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
   - Laravel
   - MySQL
   - RestAPI
-  - MongoDB
 - SQL
 - Python
   - Pyrogram
   - Flask
+- MongoDB
+- Ruby
+
