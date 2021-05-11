@@ -4,7 +4,7 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
 
 **Şu anda [fribe.org](https://fribe.org) projesi üzerinde çalışıyorum**
 
-⭐ Yıldızlı dillerim arasında **PHP**,**Python** ve **Ruby** var.
+⭐ Yıldızlı dillerim arasında **PHP**, **Python** ve **Ruby** var.
 
 🚀 En sevdiğim yazılım dilleri ve teknolojileri:
 - HTML 5
