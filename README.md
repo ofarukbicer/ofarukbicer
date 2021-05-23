@@ -4,6 +4,16 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
 
 **Şu anda [fribe.org](https://fribe.org) projesi üzerinde çalışıyorum**
 
+Çalıştığım Projeler:
+
+| Link                                              | Durumu |
+|---------------------------------------------------|--------|
+| [fribe.org](https://fribe.org)                    | ✅     |
+| [plusapi.org](https://plusapi.org)                | ✅     |
+| [binance.plusapi.org](http://binance.plusapi.org) | ✅     |
+| [hisseplus.com](https://hisseplus.com)            | ✅     |
+| [cibza.com](https://cibza.com)                    | ❌     |
+
 ⭐ Yıldızlı dillerim arasında **PHP**, **Python** ve **Ruby** var.
 
 🚀 En sevdiğim yazılım dilleri ve teknolojileri:
