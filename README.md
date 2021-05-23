@@ -13,6 +13,7 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
 | [binance.plusapi.org](http://binance.plusapi.org) | ✅     |
 | [hisseplus.com](https://hisseplus.com)            | ✅     |
 | [cibza.com](https://cibza.com)                    | ❌     |
+| [Rubikrom](https://github.com/rubikrom)           | ✅     |
 
 ⭐ Yıldızlı dillerim arasında **PHP**, **Python** ve **Ruby** var.
 
