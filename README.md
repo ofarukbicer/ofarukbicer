@@ -38,7 +38,7 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
   - Flask
 - MongoDB
 - Ruby
- - Sinatra
+  - Sinatra
 - Golang
- - Echo
+  - Echo
 
