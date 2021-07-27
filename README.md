@@ -8,12 +8,8 @@ _16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla
 
 | Link                                              | Durumu    |
 |---------------------------------------------------|-----------|
-| [fribe.org](https://fribe.org)                    | ✅        |
-| [plusapi.org](https://plusapi.org)                | ❌- Çıktım|
-| [binance.plusapi.org](http://binance.plusapi.org) | ❌- Çıktım|
-| [hisseplus.com](https://hisseplus.com)            | ❌- Çıktım|
-| [cibza.com](https://cibza.com)                    | ❌- Sildim|
-| [Rubikrom](https://github.com/rubikrom)           | ✅        |
+| [fribe.org](https://fribe.org)                    | ✅        
+| [Rubikrom](https://github.com/rubikrom)           | ✅        
 
 ⭐ Yıldızlı dillerim arasında **PHP**, **Python** ve **Ruby** var.
 
