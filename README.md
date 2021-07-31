@@ -1,8 +1,18 @@
-### Merhaba Ben Ömer Faruk 👋
+<h1 align="center"> Merhaba Ben Ömer Faruk 👋 </h1>
 
-_16 Yaşında ve fullstack çalışabilen bir öğrenciyim not: Frontend'i fazla sevmem :)_
+<h4 align="center" style="padding: 34px 0;"> Full-Stack çalışıyorum genellikle Back-End, Öğrenciyim ve Yeniliklere açığım küçüklüğümden belli kod yazıyorum son 2 3 yıldır yaptığım projeler nedeni ile kendime çok fazla bilgi kattım :) </h4>
 
-**Şu anda [fribe.org](https://fribe.org) projesi üzerinde çalışıyorum**
+<p align="center">
+  <a href="https://github.com/ertugrulsencer/">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ofarukbicer" alt="views"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://fribe.org">
+    <img src="https://fribe.org/resources/images/logo.svg" width="250" alt="fribe-logo"/>
+  </a>
+</p>
 
 Çalıştığım Projeler:
 
