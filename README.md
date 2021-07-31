@@ -14,13 +14,6 @@
   </a>
 </p>
 
-Çalıştığım Projeler:
-
-| Link                                              | Durumu    |
-|---------------------------------------------------|-----------|
-| [fribe.org](https://fribe.org)                    | ✅        
-| [Rubikrom](https://github.com/rubikrom)           | ✅        
-
 ⭐ Yıldızlı dillerim arasında **PHP**, **Python** ve **Ruby** var.
 
 🚀 En sevdiğim yazılım dilleri ve teknolojileri:
