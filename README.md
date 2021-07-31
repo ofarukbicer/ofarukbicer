@@ -16,7 +16,7 @@
 
 ⭐ Yıldızlı dillerim arasında **GoLang**, **Python** ve **JavaScript** var.
 
-🚀 En sevdiğim yazılım dilleri ve teknolojileri:
+🚀 Kullandığım veya Öğrendiğim Yazılım dilleri ya da teknolojileri:
 - HTML 5
 - CSS 3
   - Sass & Scss
