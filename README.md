@@ -14,7 +14,7 @@
   </a>
 </p>
 
-⭐ Yıldızlı dillerim arasında **GoLang**, **PHP**, **Python** ve **Ruby** var.
+⭐ Yıldızlı dillerim arasında **GoLang**, **Python** ve **JavaScript** var.
 
 🚀 En sevdiğim yazılım dilleri ve teknolojileri:
 - HTML 5
