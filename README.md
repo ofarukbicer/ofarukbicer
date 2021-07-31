@@ -37,6 +37,7 @@
   - Pyrogram
   - Flask
 - MongoDB
+- Firebase
 - Ruby
   - Sinatra
 - Golang
