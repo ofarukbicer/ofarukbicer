@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://fribe.org">
-    
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ofarukbicer" alt="views"/>
   </a>
 </p>
 
