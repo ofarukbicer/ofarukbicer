@@ -21,7 +21,6 @@
 - CSS 3
   - Sass & Scss
 - JavaScript
-  - jQuery
   - NodeJS
     - Express
     - VueJS
@@ -30,16 +29,16 @@
     - Authenticator
 - PHP 7+
   - Laravel
-  - MySQL
   - RestAPI
-- SQL
+- DB
+  - MySql
+  - MongoDB
+  - Firebase
 - Python
   - Pyrogram
   - Flask
-- MongoDB
-- Firebase
-- Ruby
-  - Sinatra
+- Dart
+  - Flutter
 - Golang
   - Echo
 
