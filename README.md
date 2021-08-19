@@ -16,27 +16,15 @@
 
 ⭐ Yıldızlı dillerim arasında **GoLang**, **Python** ve **JavaScript** var.
 
-🚀 Kullandığım veya Öğrendiğim Yazılım dilleri ya da teknolojileri:
-- HTML 5
-- CSS 3
-  - Sass & Scss
+🚀 Aktif olarak kullandığım diller ve teknolojileri:
 - JavaScript
   - NodeJS
     - Express
-    - VueJS
-    - React Native
     - Mongoose
     - Authenticator
-- PHP 7+
-  - Laravel
-  - RestAPI
 - DB
-  - MySql
   - MongoDB
-  - Firebase
-- Python
-  - Pyrogram
-  - Flask
+  - Redis
 - Dart
   - Flutter
 - Golang
