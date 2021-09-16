@@ -14,7 +14,7 @@
   </a>
 </p>
 
-⭐ Yıldızlı dillerim arasında **GoLang**, **Python** ve **JavaScript** var.
+⭐ Yıldızlı dillerim arasında **GoLang** ve **JavaScript** var.
 
 🚀 Aktif olarak kullandığım diller ve teknolojileri:
 - JavaScript
