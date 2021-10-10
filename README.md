@@ -22,9 +22,8 @@
     - Express
     - Mongoose
     - Authenticator
-- DB
-  - MongoDB
-  - Redis
+- MongoDB
+- Redis
 - Dart
   - Flutter
 - Golang
