@@ -1,6 +1,6 @@
 <h1 align="center"> Merhaba Ben Ömer Faruk 👋 </h1>
 
-<h4 align="center" style="padding: 34px 0;"> Back-end olarak çalışıyorum ama Mobil alanına yönelmiş durumdayım, Öğrenciyim ve Yeniliklere açığım küçüklüğümden belli kod yazıyorum son 2 3 yıldır yaptığım projeler nedeni ile kendime çok fazla bilgi kattım :) </h4>
+<h4 align="center" style="padding: 34px 0;"> Back-end olarak çalışıyorum ama Mobil alanına yönelmiş durumdayım, Öğrenciyim ve Yeniliklere açığım küçüklüğümden belli kod yazıyorum son 3 yıldır yaptığım projeler nedeni ile kendime çok fazla bilgi kattım :) </h4>
 
 <p align="center">
   <a href="https://github.com/ofarukbicer/">
