@@ -2,7 +2,7 @@
 
 <h2 align="center"> <a href="https://github.com/ofarukbicer/oyun-alani">Komutanım Bir Cisim Yaklaşıyor</a></h2>
 
-<h4 align="center" style="padding: 34px 0;"> Back-end olarak çalışıyorum ama Mobil alanına yönelmiş durumdayım, Öğrenciyim ve Yeniliklere açığım küçüklüğümden belli kod yazıyorum son 3 yıldır yaptığım projeler nedeni ile kendime çok fazla bilgi kattım :) </h4>
+<h4 align="center" style="padding: 34px 0;"> Full-Stack çalışıyorum ama her zaman Back-End aşkı ile yanıp tutuşan birisiyim. Öğrencilik hayatı bitti İş hayatı başladı Galiba büyüdük :)</h4>
 
 <p align="center">
   <a href="https://github.com/ofarukbicer/">
@@ -10,13 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://fribe.org">
-    <img src="https://ismet-sen.com/assets/images/fribe-logo-gradient.svg" width="250" alt="fribe-logo"/>
-  </a>
-</p>
-
-⭐ Yıldızlı dillerim arasında **GoLang** ve **JavaScript** var.
+⭐ Yıldızlı dillerim arasında **JavaScript** var.
 
 🚀 Aktif olarak kullandığım diller ve teknolojileri:
 - JavaScript
@@ -24,10 +18,9 @@
     - Express
     - Mongoose
     - Authenticator
+  - Vue3
+  - React
 - MongoDB
 - Redis
 - Dart
   - Flutter
-- Golang
-  - Echo
-
